@@ -1,0 +1,15 @@
+git init
+git status
+untracked files:
+Archivos no pertenecen al
+tracking.
+git add ..(Nombre de archivos)
+git status
+git commit -m "se creo"
+git status
+Hacer un cambio
+git status
+Agregar el cambio
+git add --all
+git status
+git commit -m "Cambio2"
