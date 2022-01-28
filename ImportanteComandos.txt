@@ -23,3 +23,14 @@ Crear ramas nuevas
 click derecho sobre la rama
 principal.
 hacer cambios.
+Combinar ramas.
+Dar todos los cambios a la rama master.
+Clic derecho sobre master.
+Merge develop in the master.
+Se mostraran 3 commit diferentes en master, se puede ser push 
+dando click derecho desde master o git checkout luego push.
+Git checkout solo cambia de rama.
+Clonar repositorios.
+git clone
+
+
