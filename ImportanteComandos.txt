@@ -32,5 +32,9 @@ dando click derecho desde master o git checkout luego push.
 Git checkout solo cambia de rama.
 Clonar repositorios.
 git clone
+Actualizar un repositorio local desde un remoto a traves de un pull
+Ignorar archivos
+Desde GitCraken
+
 
 
